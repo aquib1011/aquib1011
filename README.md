@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
- Hi, I am Aquib 👋<br>🔭 I’m currently working on applications for Computer vision<br>🌱 I’m currently learning MLOps<br>👯 I’m looking to collaborate on Deep Learning Projects<br>🤔 I’m looking for help with research in Computer Vision Domain <br> 💬 Ask me about Deep Learning 
+ Hi, I am Aquib 👋<br>🔭 I’m currently working on applications for Computer vision<br>🌱 I’m currently learning MLOps<br>👯 I’m looking to collaborate on Deep Learning Projects<br>🤔 I’m looking for help with research in Computer Vision <br> 💬 Ask me about Deep Learning 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aquibiqbal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aquibiqbal1011)  [Website](https://aquib1011.github.io/)
